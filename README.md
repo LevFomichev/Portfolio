@@ -1,20 +1,20 @@
-# 🗺️ My Portfolio
+# 🗺️ Моё портфолио
 
-Welcome to my data portfolio! Here, I document a summary of my projects in the data field.
+Добро пожаловать в мое портфолио! Здесь я документирую краткое описание своих проектов в области данных.
 
-## 📚 Table of Contents
+## 📚 Оглавление
 
 - [Python](#python)
 - [SQL](#SQL)
 
 # Python
 
-| Project Link | Area | Project Description | Libraries |
-|---|---|---|---|
-| 🎮 [Game: Guess the Number](https://github.com/LevFomichev/Game-Guess-the-Number.git) | Программирование | Создать программу, угадывающую загаданное компьютером число за минимальное количество попыток. | NumPy |
-|[PROJECT-1.-Analysis_of_resumes_from_HeadHunter](https://github.com/LevFomichev/PROJECT-1.-Analysis_of_resumes_from_HeadHunter.git) | Data Analysis | Анализ резюме из HeadHunter | Pandas
+| Ссылка на проект | Область | Описание проекта | Библиотеки | Дата завершения |
+|---|---|---|---|---|
+| 🎮 [Игра: Угадай число](https://github.com/LevFomichev/Game-Guess-the-Number.git) | Программирование | Создать программу, угадывающую загаданное компьютером число за минимальное количество попыток. | NumPy | 22.11.2023 |
+|[PROJECT-1. Анализ резюме из HeadHunter](https://github.com/LevFomichev/PROJECT-1.-Analysis_of_resumes_from_HeadHunter.git) | Анализ данных | Анализ резюме из HeadHunter | Pandas | 27.12.2023 |
 
 # SQL
 
-| Project Link | Completion Date | Area of Analysis | Project Description |
+| Ссылка на проект | Область анализа  | Описание проекта | Дата завершения |
 |---|---|---|---|
