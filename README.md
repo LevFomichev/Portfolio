@@ -18,3 +18,4 @@
 
 | Ссылка на проект | Область анализа  | Описание проекта | Дата завершения |
 |---|---|---|---|
+| [PROJECT-2. Анализ вакансий из HeadHunter](https://github.com/LevFomichev/PROJECT-2.-Analysis_of_vacancies_from_HeadHunter.git) | Анализ данных  | Анализ вакансий и информации об работодателях из HeadHunter | 28.02.2024|
